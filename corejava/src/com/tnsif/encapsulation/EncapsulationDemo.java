@@ -15,7 +15,8 @@ public class EncapsulationDemo {
          ob.setAge(22);
 		 ob.setName("Ramya");
 		 ob.setSerialNum(55);
-		 ob.show();
+	
+		ob.show();
 		 
 
 	}
