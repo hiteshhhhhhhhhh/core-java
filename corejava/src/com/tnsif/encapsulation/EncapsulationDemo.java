@@ -16,8 +16,8 @@ public class EncapsulationDemo {
 		 ob.setName("Ramya");
 		 ob.setSerialNum(55);
 	
-		ob.show();
-		 
+		
+		 System.out.println(ob);
 
 	}
 
