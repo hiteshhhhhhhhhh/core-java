@@ -3,7 +3,7 @@
 package com.tnsif.encapsulation;
 
 public class Encapsulation {
-		private int serialNum;//data variables
+		private int serialNum;
 		private String name;
 		private int age;
 		 
