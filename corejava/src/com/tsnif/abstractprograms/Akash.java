@@ -1,6 +1,6 @@
 package com.tsnif.abstractprograms;
 
-public class Akash  extends TaxPayer{
+public class Akash extends TaxPayer{
 
 	public Akash(double salary) {
 		super(salary);
